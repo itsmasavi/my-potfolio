@@ -6,6 +6,7 @@ This website shows my potfolio as a web developer.it shows some information abou
 ## Setup/Installation Requirements
 * this website runs on any browser
 * download files to pc and open index.html on any browser
+* here is the link to the website. https://itsmasavi.github.io/my-potfolio/
 ## Technologies Used
 this website was coded in html and css.
 ## Support and contact details
