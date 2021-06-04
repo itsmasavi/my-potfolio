@@ -1,5 +1,5 @@
 # My Potfolio
-#### {This is a website about my potfolio as a web developer}, {4th/June/31}
+#### This is a website about my potfolio as a web developer, 4th/June/31
 #### By **Collins Masavi**
 ## Description
 This website shows my potfolio as a web developer.it shows some information about me and also my hobbies it also includes links to a few projects that i have done as a student web developer at moringa school. 
